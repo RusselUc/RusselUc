@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Russel Ariel Uc Puc</h1>
-<h3 align="center">Web developer jr.</h3>
-
-- 🌱 I’m currently learning **Jetpack compose.**
+<h3 align="center">Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://russel-ariel-uc-puc.netlify.app/](https://russel-ariel-uc-puc.netlify.app/)
-
-- 💬 Ask me about **react js.**
 
 - 📫 How to reach me **russelarielucpuc@gmail.com**
 
